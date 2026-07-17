@@ -66,11 +66,12 @@ philosophy: >
 
 🎓 Final-year CSE undergrad
 💼 9 months, 2 internships
-🚀 3 apps shipped to production
+🚀 3 websites shipped to production
 👥 Leading a 50+ member society
 🏆 5+ hackathon & competition wins
-🐍 Python-first backend developer
+🐍 Python-first backend developer, Aspiring AI Engineer
 🔺 MERN full stack developer
+
 
 </td>
 </tr>
